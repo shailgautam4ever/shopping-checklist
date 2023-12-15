@@ -10,6 +10,20 @@ URL: https://shopping-checklist-shailgautam4ever.vercel.app/
 
 ## Usage
 
+### Installation
+```bash
+npm install
+```
+### Start React Server
+```bash
+npm start
+```
+### Run Test Case
+```bash
+npm run test
+```
+
+
 ## Author
 
 Shail Gautam
