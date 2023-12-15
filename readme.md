@@ -1,3 +1,11 @@
+# Shopping Checklist App
+
+## Demo
+
+URL: https://shopping-checklist-shailgautam4ever.vercel.app/
+
+<img width="745" alt="Screenshot 2023-12-15 at 9 40 46 PM" src="https://github.com/shailgautam4ever/shopping-checklist/assets/36552279/ccc46e64-2013-4a39-8829-aac39ab7c570">
+
 ## your task is to Fix a shopping list app. This app should be able to:
 
 # TASK 1
@@ -11,6 +19,7 @@
 # TASK 3
 
 - Once item is marked completed, it should updated the Counts for COMPLETED and PENDING items --done
+
 
 # TASK 4
 
